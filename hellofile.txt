@@ -1,3 +1,5 @@
 xin chao moi nguoi
 toi la git day
+toi la window
+thu voi desktop
 
