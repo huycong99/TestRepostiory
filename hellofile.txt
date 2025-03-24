@@ -3,4 +3,6 @@ toi la git day
 toi la window
 thu voi desktop
 alo
+Xin chao
+hello
 
