@@ -2,3 +2,4 @@ xin chao moi nguoi
 toi la git day
 
 comit 1
+comit 2
